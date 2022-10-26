@@ -1,0 +1,15 @@
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\bin\Debug\net6.0\MadLibRepo.exe
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\bin\Debug\net6.0\MadLibRepo.deps.json
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\bin\Debug\net6.0\MadLibRepo.runtimeconfig.json
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\bin\Debug\net6.0\MadLibRepo.dll
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\bin\Debug\net6.0\MadLibRepo.pdb
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.csproj.AssemblyReference.cache
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.AssemblyInfoInputs.cache
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.AssemblyInfo.cs
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.csproj.CoreCompileInputs.cache
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.dll
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\refint\MadLibRepo.dll
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.pdb
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\MadLibRepo.genruntimeconfig.cache
+C:\Users\zerot\Documents\Codestack\PeerReviewsGitHub\AngelicasMadLibs\MadLibRepo\obj\Debug\net6.0\ref\MadLibRepo.dll

@@ -9,9 +9,9 @@
 
 
 
-//Reviewed by:
-//Date:
-//Review:
+//Reviewed by: Patrick De Leon 
+//Date: 10/25/22
+//Review: So far everything works! But there is some missing data validation. There is a play again feature though which is great! Nice story.
 
 
 
